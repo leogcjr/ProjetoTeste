@@ -22,8 +22,6 @@ import br.com.cvc.service.HotelPriceService;
 import br.com.cvc.service.IntegraBrokerService;
 import io.swagger.annotations.Api;
 
-//@RestController("/api/cvc")
-//@CrossOrigin("*")
 @RestController
 @Api
 @RequestMapping(value = "/api/cvc", produces = "application/json")

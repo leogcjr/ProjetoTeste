@@ -18,8 +18,9 @@ Execute: mvn spring-boot:run
 
 * [Maven](https://maven.apache.org/) - Versão 3.6.0
 * [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Spring ModelMapper](http://modelmapper.org/) - Versão 2.3.0
+
+* JAVA 12
+
 
 ## URL para teste 
 
